@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hey 👋 I'm Moamen
 
 💻 Software Engineer | Frontend Developer  
